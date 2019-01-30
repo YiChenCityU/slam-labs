@@ -20,3 +20,4 @@
 #### 18. [Frank Dellaert,Georgia Tech](http://frank.dellaert.com/)因子图作者，SKYDIO无人机合作者，iSAM2
 #### 19. [Andrew Davison,Imperial College London](https://www.doc.ic.ac.uk/~ajd/)代表作KinectFusion，MonoSLAM，DTAM，逆深度提出者，KAZE特征点法，SLAM++。Civera，Richard Newcombe是他学生
 #### 20. [David Murray, University of Oxford](http://www.robots.ox.ac.uk/~dwm/)代表作PTAM
+#### 21. [Sebastian Thrun,Stanford University](http://robots.stanford.edu/)概率机器人，FastSLAM，蒙特卡罗方法提出者
