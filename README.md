@@ -21,3 +21,4 @@
 #### 19. [Andrew Davison,Imperial College London](https://www.doc.ic.ac.uk/~ajd/)代表作KinectFusion，MonoSLAM，DTAM，逆深度提出者，KAZE特征点法，SLAM++。Civera，Richard Newcombe是他学生
 #### 20. [David Murray, University of Oxford](http://www.robots.ox.ac.uk/~dwm/)代表作PTAM
 #### 21. [Sebastian Thrun,Stanford University](http://robots.stanford.edu/)概率机器人，FastSLAM，蒙特卡罗方法提出者
+#### 22. [J.M. Martínez Montiel,Universidad de Zaragoza](http://webdiis.unizar.es/~josemari/)ORBSLAM作者之一，1-point RANSAC作者之一
